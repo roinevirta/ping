@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "play-sound": "git@github.com:shime/play-sound.git"
+  }
+}
