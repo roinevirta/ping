@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "play-sound": "shime/play-sound"
+    "play-sound": "shime/play-sound",
+    "mplayer": "noodny/mplayer"
   }
 }
